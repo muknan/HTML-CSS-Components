@@ -14,7 +14,7 @@
 
 <h3>Component - Pagination</h3>
 
-<img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/120ebd96-21d1-4d79-b52a-4efd1177bd31" width="70%">
+<img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/120ebd96-21d1-4d79-b52a-4efd1177bd31" width="50%">
 
 <h3>Section - Hero Section</h3>
 
