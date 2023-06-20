@@ -18,4 +18,4 @@
 
 <h3>Section - Hero Section</h3>
 
-<img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/9318c769-b4d2-470f-b22d-998cd4c2821e" width="70%">
+<img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/1d17b47b-e534-4a1d-8fce-3657522ed4cb" width="70%">
