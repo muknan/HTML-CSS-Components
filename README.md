@@ -7,3 +7,15 @@
 <h3>Component - Carousel</h3>
 
 <img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/667dc9e0-614c-4483-9076-7ea420843277" width="70%">
+
+<h3>Component - Table</h3>
+
+<img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/667dc9e0-614c-4483-9076-7ea420843277" width="70%">
+
+<h3>Component - Pagination</h3>
+
+<img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/667dc9e0-614c-4483-9076-7ea420843277" width="70%">
+
+<h3>Section - Hero Section</h3>
+
+<img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/667dc9e0-614c-4483-9076-7ea420843277" width="70%">
