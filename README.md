@@ -16,6 +16,10 @@
 
 <img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/120ebd96-21d1-4d79-b52a-4efd1177bd31" width="50%">
 
-<h3>Section - Hero Section</h3>
+<h3>Section component - Hero Section</h3>
 
 <img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/1d17b47b-e534-4a1d-8fce-3657522ed4cb" width="70%">
+
+<h3>App layout - email</h3>
+
+<img src="https://github.com/muknan/HTML-CSS-Components/assets/90479242/76d0e557-4480-43be-8b4c-ee35522ef502" width="70%">
